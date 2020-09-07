@@ -29,8 +29,25 @@ body {
   height: 100%;
 }
 
+/*Fuentes*/
+
 .italic {
   font-style: italic;
+}
+
+.aldrich {
+  font-family: 'Aldrich';font-size: 22px;
+}
+
+.monofett {
+  font-family: 'Monofett';font-size: 22px;
+}
+
+/* imagen perfil*/
+.img-circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
 }
 
 section {
